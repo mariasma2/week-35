@@ -45,7 +45,7 @@ function Chat() {
         {messages.map(message => (
           <p className='conteiner'
             key={message.id}
-            style={{ backgroundColor: message.highlighted ? 'lightblue' : 'transparent' }}
+            style={{ backgroundColor: message.highlighted ? 'white' : 'transparent' }}
           >
             {message.text}
           </p>
