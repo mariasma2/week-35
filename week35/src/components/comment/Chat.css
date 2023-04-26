@@ -1,0 +1,49 @@
+.comment {
+    padding: 40px;
+    max-width: 400px;
+    margin: 40px auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+    background-color: rgb(152, 217, 248);
+    text-align: center;
+}
+
+.newComment {
+    padding: 20px;
+    width: 350px;
+    height: 30px;
+    margin: 20px auto;
+    border-radius: 2px;
+    box-shadow: 0 4px 5px 2px rgba(20, 20, 20, 0.3);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 18px;
+    color: black;
+}
+
+.button {
+    padding: 0;
+    margin: 30px 0 0 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    width: 350px;
+    height: 60px;
+    top: 0px;
+
+    background: #aa36bf;
+    border: 1px solid  #aa36bf;
+    border-radius: 4px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    text-align: center;
+    color: black;
+
+}
